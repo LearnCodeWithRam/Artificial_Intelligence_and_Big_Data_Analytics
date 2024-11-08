@@ -1,0 +1,5 @@
+For VM Virtual Boxes:
+Link: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html 
+
+For Hadoop Linux System:
+Link: https://archive.cloudera.com/hwx-sandbox/hdp/hdp-2.6.5/HDP_2.6.5_virtualbox_180626.ova
