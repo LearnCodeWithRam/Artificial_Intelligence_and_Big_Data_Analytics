@@ -1,4 +1,4 @@
-# Pandas-tutorials
+# Data Quality Analytics: Pandas-tutorials, NumPy, Python, Power BI, Hadoop and Spark, and Data bases(Mysql, Oracle and AWS RDS)
 ![](https://github.com/TirendazAcademy/PANDAS-TUTORIAL/blob/main/Images/pandas_turoial.png?raw=true)
 
 [![](https://img.shields.io/badge/Python-maroon.svg?&logo=python&logoColor=white)](https://python.org) [![](https://img.shields.io/badge/Pandas-navy.svg?&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![](https://img.shields.io/badge/Matplotlib-purple.svg?&logo=matplotlib&logoColor=white)](https://pandas.pydata.org/) [![](https://img.shields.io/badge/Seaborn-darkgreen.svg?&logo=seaborn&logoColor=white)](https://pandas.pydata.org/)
